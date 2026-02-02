@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LinguaVision",
+  "description": "A powerful AI-powered image translation tool utilizing Google Gemini to translate Korean and Spanish text from images into English with high accuracy.",
+  "requestFramePermissions": []
+}
